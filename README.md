@@ -13,6 +13,8 @@ Then it generates a random password (8-13 characters) and sends it to a login pa
 
 All of this can be changed in the code.
 
+⚠️ The script does not use any kind of proxy, have that in mind ⚠️
+
 ### Installation
 ``` git clone https://github.com/r4v10l1/login_flooder``` 
 
