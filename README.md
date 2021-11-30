@@ -1,5 +1,3 @@
-<hr>
-
 ## Login flooder
 
 Sends a list of usernames (converted to emails) and passwords (random ones) to a login page
@@ -16,14 +14,11 @@ All of this can be changed in the code.
 ⚠️ The script does not use any kind of proxy, have that in mind ⚠️
 
 ### Installation
-``` git clone https://github.com/r4v10l1/login_flooder``` 
-
-``` cd login_flooder``` 
-
-``` python3 login_flooder.py``` (Must change code to set your target)
+```bash
+git clone https://github.com/r4v10l1/login_flooder
+cd login_flooder
+python3 login_flooder.py  # Must change code to set your target
+```
 
 ### Screenshots
-<img src="https://i.imgur.com/uHGChxQ.png" width="528" height="222"/>
-
-<hr>
-
+Image died.
